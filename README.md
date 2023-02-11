@@ -4,3 +4,4 @@ Abstract Data type (ADT) is a type (or class) for objects whose behavior is defi
 
 The process of providing only the essentials and hiding the details is known as abstraction. 
 
+https://user-images.githubusercontent.com/97427438/218256870-3f2960a3-3b27-423e-bee8-b2b4128308cb.jpg
