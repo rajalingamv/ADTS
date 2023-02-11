@@ -1,0 +1,10 @@
+CODE
+
+def datatype(value):
+  return type(value)
+value1="kamal"
+print(f"'{value1}' datatype is '{datatype(value1)}'")
+value2=70
+print(f"'{value2}' datatype is '{datatype(value2)}'")
+value3=[5,6,7]
+print(f"'{value3}' datatype is '{datatype(value3)}'")
